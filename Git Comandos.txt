@@ -1,0 +1,7 @@
+git init - Inicia um repositorio
+
+git add . ou git add nome_do_arquivo - Adiciona as alterações ao índice
+
+git commit -m "Sua mensagem de commit" - Cria um commit com uma mensagem descritiva
+
+git push -u origin main ou git push -u origin nome_da_sua_branch - Envia o código para o GitHub
