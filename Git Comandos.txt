@@ -1,7 +1,13 @@
 git init - Inicia um repositorio
 
+git remote add orgin 'link do github'
+
 git add . ou git add nome_do_arquivo - Adiciona as alterações ao índice
 
 git commit -m "Sua mensagem de commit" - Cria um commit com uma mensagem descritiva
 
 git push -u origin main ou git push -u origin nome_da_sua_branch - Envia o código para o GitHub
+
+*agora estamos na branch nova
+
+git checkout -b dev - Criação de nova branch e troca para ela
